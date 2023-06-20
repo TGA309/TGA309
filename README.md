@@ -10,6 +10,5 @@ Can work with the following languages:
 5) HTML
 6) CSS
 7) Javascript
-8) Haskell
 
 Passionate about coding and learning new things.
