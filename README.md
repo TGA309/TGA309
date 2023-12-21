@@ -10,5 +10,7 @@ Can work with the following languages:
 5) HTML
 6) CSS
 7) Javascript
+8) NodeJS
+9) Dart (Flutter)
 
 Passionate about coding and learning new things.
